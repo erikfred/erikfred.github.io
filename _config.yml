@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Erik Fredrickson"
   avatar           : "profile.jpeg"
-  bio              : "PhD Candidate, School of Oceanography, University of Washington"
-  location         : "Seattle, WA"
+  bio              : "Seafloor Geodesist, Bicycle Enthusiast, Baker, Alt Journalist"
+  location         : "Austin, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LrK7KdUAAAAJ&hl=en&authuser=1&oi=sra"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "erikfred (at) utexas (dot) edu"
+  researchgate     : "https://www.researchgate.net/profile/Erik-Fredrickson"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ErikPhred"
+  twitter          : # "@ErikPhred"
   vine             :
   weibo            :
   xing             :
