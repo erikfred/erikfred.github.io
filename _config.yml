@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rate-and-State Fredrickson"
+title                    : "UnderPressure"
 title_separator          : "-"
 name                     : &name "Erik Fredrickson"
 description              : &description ""
