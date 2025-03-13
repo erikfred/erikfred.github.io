@@ -191,17 +191,15 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _activities
   - scope:
       path: ""
-      type: posts
+      type: activities
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      # comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -217,7 +215,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      # comments: true
   # _publications
   - scope:
       path: ""
@@ -226,20 +224,20 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
+      # comments: true
+  # _print-media
   - scope:
       path: ""
-      type: portfolio
+      type: print-media
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      # comment: true
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
