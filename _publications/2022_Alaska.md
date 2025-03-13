@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Slow Slip Detectability in Seafloor Pressure Records Offshore Cascadia"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-Alaska
+excerpt: 'We use pressure data from offshore Alaska to show that circulation-related signals can be reduced by as much as 93% by exploiting their coherence at similar water depths over distances of hundreds of kilometers, making the detection of subtle deformation signals significantly easier.'
+date: 2023-01-01
+venue: 'Journal of Geophysical Research: Solid Earth'
+paperurl: 'http://erikfred.github.io/files/papers/Fredrickson-et-al_2023.pdf'
+supurl: 'http://erikfred.github.io/files/papers/Fredrickson-et-al_2023_s01.pdf'
+citation: 'Fredrickson, E. K., Gomber, J. S., Wilcock, W. S. D., Hautala, S. L., Hermann, A. J., & Johnson, H. P. (2023). &quot;Slow Slip Detectability in Seafloor Pressure Records Offshore Cascadia.&quot; <i>Journal of Geophysical Research: Solid Earth</i>. 128.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In subduction zones worldwide, seafloor pressure data are used to observe tectonic deformation, particularly from megathrust earthquakes and slow slip events (SSEs). However, such measurements are also sensitive to oceanographic circulation-generated pressures over a range of frequencies that conflate  with tectonic signals of interest. Using seafloor pressure and temperature data from the Alaska Amphibious Community Seismic Experiment, and sea surface height data from satellite altimetry, we evaluate the efficacy of various seasonal and oceanographic pressure signal proxy corrections and conduct synthetic tests to determine their impact on the timing and amplitude prediction of ramp-like signals typical of SSEs. We find that subtracting out the first mode of the complex empirical orthogonal functions of the pressure records on either the shelf or slope yields signal root-mean-square error (RMS) reductions up to 73% or 80%, respectively. Additional correction with proxies that exploit the depth-dependent spatial coherence of pressure records provides cumulative variance reductions up to 83% and 93%, respectively. Our detectability tests show that the timing and amplitude of synthetic SSE-like ramps can be well constrained for ramp amplitudes >4 cm on the shelf and >2 cm on the slope, using a fully automated detector. The principal limits on detectability are residual abrupt changes in pressure that occur as part of the transition to and from summer to winter conditions but are not adequately characterized by our seasonal corrections, as well as the inability to properly account for instrumental drift, which is not readily separated from the seasonal signal.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://erikfred.github.io/files/papers/Fredrickson-et-al_2023.pdf)
+[Download supplement here] (http://erikfred.github.io/files/papers/Fredrickson-et-al_2023_s01.pdf)
