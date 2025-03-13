@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erik Fredrickson"
+title                    : "Rate-and-State Fredrickson"
 title_separator          : "-"
 name                     : &name "Erik Fredrickson"
 description              : &description ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erik Fredrickson"
   avatar           : "profile.jpeg"
-  bio              : "Seafloor Geodesist, Bicycle Enthusiast, Baker, Alt Journalist"
+  bio              : "Seafloor Geodesist, Bicycle Enthusiast, Baker, Alt Journalist, KUTX Junkie"
   location         : "Austin, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  print-media:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
