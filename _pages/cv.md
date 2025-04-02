@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Latest Update: 2025/02/28](/files/CV_20250228)
+[Latest Update: 2025/02/28](/files/CV_feb.pdf)
 
 Education
 ======
