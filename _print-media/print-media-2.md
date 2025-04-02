@@ -5,7 +5,7 @@ collection: print-media
 permalink: /print-media/print-media-2
 ---
 
-<img src='/images/ana/ana_banner.png'>
+<img src='/images/ana/ana_logo.png'>
 
 <br/>[October, 2023](/files/allandale_neighbor/2023_10.pdf)
 <br/>[December, 2023](/files/allandale_neighbor/2023_12.pdf)
