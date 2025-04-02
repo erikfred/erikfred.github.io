@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+[Latest Update: 2025/02/28](/files/CV_20250228)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics & Earth and Space Sciences, University of Washington, 2012
+  * Advisor: Caroline Stromberg
+* M.S. in Oceanography, University of Washington, 2019
+  * Advisor: William Wilcock
+* Ph.D in Oceanography, University of Washington, 2023
+  * Advisor: William Wilcock
+  * Dissertation: Circulation-Informed Seafloor Geodetic Techniques for Understanding Plate Boundary Processes 
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -34,7 +40,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,7 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
