@@ -21,4 +21,4 @@ At the UT-Austin Institute for Geophysics, I am applying these processing techni
 Personal Bio
 ======
 Love letter to my All City bicycle
-<br/><img src='/images/allcity.png'>
+<br/><img src='/images/allcity.jpg'>
