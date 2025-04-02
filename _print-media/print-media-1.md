@@ -5,8 +5,9 @@ collection: print-media
 permalink: /print-media/print-media-1
 ---
 
-<img src='/images/TTbanner.png'>
-<br/><i>Ahead of its time.</i> - Walter H. Munk<br/>
+<img src='/images/touchtank/TTbanner.png'>
+<br/><i>Sverdrups ahead of its competitors.</i> - Walter H. Munk<br/>
 
-<br/>**September, 2017**
-<img src='/files/touchtank/2017_09.pdf'>
+**September, 2017**
+<br/><img src='/images/touchtank/2017_09.png'>
+</br>[pdf](/files/touchtank/2017_09.pdf)
