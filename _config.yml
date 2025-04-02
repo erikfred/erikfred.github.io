@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Erik Fredrickson"
   avatar           : "profile.jpeg"
-  bio              : "Seafloor Geodesist, Bicycle Enthusiast, Baker, Alt Journalist, KUTX Junkie"
-  location         : "Austin, TX"
+  bio              : "Seafloor Pressure Geodesist, Bicycle Enthusiast, Sourdough Baker, Alt-Journalist, KUTX Junkie"
+  location         : "Portland, OR"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=V8TW2PkAAAAJ&hl=en"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/erikfred/"
   orcid            : "https://orcid.org/0000-0001-7123-0805"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : # "@ErikPhred"
+  twitter          :
   vine             :
   weibo            :
   xing             :
