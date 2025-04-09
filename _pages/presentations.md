@@ -9,7 +9,7 @@ redirect_from:
 Below is a selection of oral and poster presentations I've given over the years.
 
 Invited Talks
-=============
+-------------
 
 * Drift-Free Pressure Observations from the Hikurangi margin. SZNet Ocean Floor Observational Technology Workshop, Santiago, Chile. (2025)
 * Using tilt meters and pressure sensors to monitor an event. Endeavour 3.0 Workshop, Victoria, B.C., Canada. (2024)
