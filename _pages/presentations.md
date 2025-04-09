@@ -1,11 +1,12 @@
 ---
-layout: archive
 title: "Presentations"
 permalink: /presentations/
 author_profile: true
 redirect_from:
   - /talks
 ---
+
+Below is a selection of oral and poster presentations I've given over the years.
 
 Invited Talks
 =============
@@ -23,7 +24,7 @@ Invited Talks
 * The detectability of offshore slow slip earthquakes with seafloor pressure sensors: A sensitivity analysis for the Cascadia Subduction Zone. AGU Fall Meeting, Washington D.C. (2018)
 
 Other Presentations
-===================
+-------------------
 
 * Searching for secular vertical strain signal in the Hikurangi margin using calibrated seafloor pressure data. Slow-to-Fast Earthquake Workshop, Santiago, Chile (oral, 2025)
 * Using calibrated pressure to quantify vertical secular deformation in the offshore Hikurangi Subduction Zone. USGS Subduction Zone Science Meeting, Seattle, WA (poster, 2025)
