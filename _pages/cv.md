@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-[Latest Update: 2025/02/28](/files/CV_feb.pdf)
+[Download Latest Update (2025/02/28)](/files/CV_feb.pdf)
 
 Education
 ======
-* B.S. in Physics & Earth and Space Sciences, University of Washington, 2012
-  * Advisor: Caroline Stromberg
-* M.S. in Oceanography, University of Washington, 2019
-  * Advisor: William Wilcock
 * Ph.D in Oceanography, University of Washington, 2023
   * Advisor: William Wilcock
   * Dissertation: Circulation-Informed Seafloor Geodetic Techniques for Understanding Plate Boundary Processes 
+* M.S. in Oceanography, University of Washington, 2019
+  * Advisor: William Wilcock
+* B.S. in Physics & Earth and Space Sciences, University of Washington, 2012
+  * Advisor: Caroline Stromberg
+
 
 <!-- Work experience
 ======
